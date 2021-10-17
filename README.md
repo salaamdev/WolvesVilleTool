@@ -1,5 +1,13 @@
 # WolvesVilleTool
+Welcome Dear user, read this instructions carefully, you can check out this video for tutorials
 
+# Initial
+Download and install [winrar](https://www.win-rar.com/)
+Download this files or clone them to your pc
+if you need premium version, join our [discord server](https://discord.com/invite/e58JdmATjw)and open a ticket
+follow the below instructions to set up the actual bot
+
+# Configuration
 steps 1: 
 open config folder -> open config.txt -> click file -> save as ->
 change name to config.ini- choose type as all type -> save
@@ -13,6 +21,7 @@ open Wolves Ville Tool.a3x -> go to first time tab -> read through the instructi
 step 4:
 go to main tab -> set required fields
 [ Emulator = Choose Prefered emulator, more will be added soon ]
+
 [ Bot = Choose what bot you want to use, For now use the auto watch ads bot ]
 [ AdvertLength = How long each ad is displayed on your device in seconds, i recommand 31 ]
 [ AdvertCount = How many ads you want to the bot to watch before it stops ]
