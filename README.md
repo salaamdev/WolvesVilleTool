@@ -30,4 +30,4 @@ if your emulator's size is bigger, use values between 6-9, ask for help if you d
 
 **step 5:**
 * Before you click start, make sure emulator is not minimized, also make sure the adwheel is displayed
-* Click start if you have done the above steps, any problem you face, make sure to let me know
+* Click start if you have done the above steps, any problem you face, make sure to let me know on [discord server](https://discord.com/invite/e58JdmATjw)
