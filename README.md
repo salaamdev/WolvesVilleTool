@@ -1,5 +1,5 @@
 # WolvesVilleTool
-Welcome Dear user, read this instructions carefully, you can check out this [video](https://www.youtube.com/c/RedScorpion9?sub_confirmation=1) for tutorials
+Welcome Dear user, read this instructions carefully, you can check out this [video](https://www.youtube.com/watch?v=r6xUvKmRr-8&ab_channel=RedScorpion) for tutorials
 
 Activation key can be found on my [discord server](https://discord.com/invite/e58JdmATjw)
 
