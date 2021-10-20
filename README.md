@@ -3,6 +3,8 @@ Welcome Dear user, read this instructions carefully, you can check out this [vid
 
 Activation key can be found on my [discord server](https://discord.com/invite/e58JdmATjw)
 
+To stop the bot, use hotkey ```ctrl + 9```
+
 # Initial
 Download and install [winrar](https://www.win-rar.com/)
 Download this files or clone them to your pc
