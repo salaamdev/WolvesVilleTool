@@ -1,3 +1,6 @@
+# UPDATE CHECKER
+Bot version is 1.0, if your bot says a lower value than that then download this files else your bot is upto date
+
 # WolvesVilleTool
 Welcome Dear user, read this instructions carefully, you can check out this [video](https://www.youtube.com/watch?v=r6xUvKmRr-8&ab_channel=RedScorpion) for tutorials
 
